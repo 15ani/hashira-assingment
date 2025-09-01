@@ -1,0 +1,7 @@
+n (total roots): 4
+k (minimum required roots): 3
+Use first k roots for coefficient calculations.
+
+Root 1 (base 10): 4 -> 4
+Root 2 (base 2): 111 -> 7
+Root 3 (base 10): 12 -> 12
